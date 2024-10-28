@@ -1,5 +1,6 @@
-## Hi 👋 I'm AyaTing.✨
-
+## Hi 👋 I'm Aya Ting.✨
+- 🌱 I'm studying daily with the goal of transitioning into a career as a software engineer.
+- 🌱 Currently, I'm focusing on front-end technologies and programming.
 <!--
 **AyaTing/AyaTing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
