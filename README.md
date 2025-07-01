@@ -7,7 +7,7 @@
 
 📫 Reach me at ayateiiii@gmail.com
 
-📄 **View My Resume**: [Click Here](https://drive.google.com/file/d/1GN-d-MRspzm6NrcPQ96cwLIHOZtx8n1K/view)
+📄 **View My Resume**: [Click Here](https://drive.google.com/file/d/1D50fVQfbkjKipcRFIXOamp0YN3t95vaa/view)
 
 ## 📗 Projects
 
