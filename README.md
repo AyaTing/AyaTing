@@ -7,10 +7,8 @@
 
 ## 📗 Projects
 
-❄️ **[Cool Slate](https://cool-slate.ayating.workers.dev/)** - Smart AC Service Booking Platform  → [Repo](https://github.com/AyaTing/coolSlate)
+❄️ **Cool Slate** - Smart AC Service Booking Platform  → [Repo](https://github.com/AyaTing/coolSlate)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaTing&layout=compact)
 
 
 
